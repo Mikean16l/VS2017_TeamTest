@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="2/26/2020 4:25:52 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="THINKPAD-LQT"
+  DTS:CreatorName="THINKPAD-LQT\mikea"
+  DTS:DTSID="{99FACD62-3D6C-484F-88F1-2E73E151C41B}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.68"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{638702F9-50E5-4086-BD01-729FEF7B23E7}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
